@@ -9,7 +9,7 @@ namespace PrnvniAplikace
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!");
+            Console.WriteLine("Hello world! Hello world!");
             Console.ReadKey();
         }
     }
